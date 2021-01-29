@@ -11,5 +11,5 @@ These samples were developed with the intent to use in [TidalCycles](https://git
 - Audio Interface: PreSonus AudioBox USB 96
 - Instrument: Ortega Lizard Ukulele (affectionately called Sally)
 
-<img src="sally.png" alt="ukulele picture" style="zoom:40%;" />
+<img src="sally.png" alt="ukulele picture" width="400" />
 
