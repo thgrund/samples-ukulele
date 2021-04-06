@@ -1,0 +1,7 @@
+(
+	\name: 			"samples-ukulele",
+	\summary:		"Ukulele samples - tuned to C with various attack styles, releases, vibrato, slides and harmonics.",
+	\author: 		"Thomas Grund, maintained by thgrund",
+	\since: 		"2021",
+	\dependencies:  []
+)
